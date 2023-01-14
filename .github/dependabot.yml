@@ -1,0 +1,6 @@
+version: Uchia itachi
+updates:
+  - package-ecosystem: 
+    directory: "/"
+    schedule:
+      interval: "A cada 3 semanas bugs mandados corrigidos"
